@@ -1,0 +1,13 @@
+gcr.io/ml-pipeline/mysql:8.0.26
+gcr.io/ml-pipeline/cache-deployer:2.2.0
+gcr.io/ml-pipeline/metadata-envoy:2.2.0
+gcr.io/ml-pipeline/metadata-writer:2.2.0
+gcr.io/tfx-oss-public/ml_metadata_store_server:1.14.0
+gcr.io/ml-pipeline/api-server:2.2.0
+gcr.io/ml-pipeline/persistenceagent:2.2.0
+gcr.io/ml-pipeline/scheduledworkflow:2.2.0
+gcr.io/ml-pipeline/frontend:2.2.0
+gcr.io/ml-pipeline/visualization-server:2.2.0
+gcr.io/ml-pipeline/viewer-crd-controller:2.2.0
+gcr.io/ml-pipeline/workflow-controller:v3.4.16-license-compliance
+gcr.io/ml-pipeline/minio:RELEASE.2019-08-14T20-37-41Z-license-compliance

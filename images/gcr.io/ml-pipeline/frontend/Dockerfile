@@ -1,0 +1,1 @@
+gcr.io/ml-pipeline/frontend:2.2.0

@@ -1,0 +1,1 @@
+gcr.io/ml-pipeline/api-server:2.2.0

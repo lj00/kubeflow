@@ -1,0 +1,1 @@
+gcr.io/ml-pipeline/persistenceagent:2.2.0
